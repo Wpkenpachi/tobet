@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6435b0a1-dae5-40bf-a0f5-e9cdfb03f719",
+    "name": "Admin User",
+    "email": "admin@gmail.com",
+    "role": "ADMIN"
+  },
+  {
+    "id": "f365351e-d949-4a61-ae73-1a3ba06929b1",
+    "name": "Normal User 01",
+    "email": "apostador1@gmail.com",
+    "role": "BETTOR"
+  },
+  {
+    "id": "50aa2e38-362a-4b13-9883-21d54a33c0c6",
+    "name": "Normal User 02",
+    "email": "apostador2@gmail.com",
+    "role": "BETTOR"
+  },
+  {
+    "id": "138a80de-6db2-422b-910e-f6bd07cae746",
+    "name": "Normal User 03",
+    "email": "apostador3@gmail.com",
+    "role": "BETTOR"
+  }
+]

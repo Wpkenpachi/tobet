@@ -1,0 +1,290 @@
+[
+  {
+    "id": "0740098c-aaf9-47f8-84d8-cbcccaffaf54",
+    "name": "Torneio no Campo do Bairro Brasil",
+    "locality": "Campo do Bairro Brasil",
+    "start_date": "01/12/2019",
+    "end_date": "01/12/2019",
+    "matches": [
+      {
+        "id": "83edebb1-acbe-4264-b4ab-e99575258752",
+        "home": "29a5f7ad-88e1-46b7-be8b-168e0a0ab043",
+        "guest": "c182aae6-b502-4bb3-ad85-4339fa682acd",
+        "result": "HOME_WIN",
+        "score": {
+          "home": 2,
+          "guest": 1
+        },
+        "date": "01/12/2019",
+        "start_time": "07:30",
+        "status": "CLOSED"
+      },
+      {
+        "id": "4027d4df-ea74-45b0-9e39-f46245a52c3e",
+        "home": "35e9288f-802e-4290-b9c0-dd3c012af2c8",
+        "guest": "52713222-924c-43e0-942a-2baaa8d78459",
+        "result": "GUEST_WIN",
+        "score": {
+          "home": 1,
+          "guest": 2
+        },
+        "date": "01/12/2019",
+        "start_time": "08:30",
+        "status": "CLOSED"
+      },
+      {
+        "id": "b4e7e371-1fd8-48f4-ae2a-5d425401c2f6",
+        "home": "81d10312-811f-4be6-97c6-f37d8378e9ee",
+        "guest": "7952f5fd-d251-4d20-98b3-9247ac382db6",
+        "result": "GUEST_WIN",
+        "score": {
+          "home": 1,
+          "guest": 2
+        },
+        "date": "01/12/2019",
+        "start_time": "09:30",
+        "status": "CLOSED"
+      },
+      {
+        "id": "6f4589cd-6809-49ff-84d5-4ce1f39212cb",
+        "home": "4c580337-c7d4-4089-b2f8-eaded287b636",
+        "guest": "2d912abf-96a7-4a1d-8da5-d85d4533a9e2",
+        "result": "DRAW",
+        "score": {
+          "home": 1,
+          "guest": 1
+        },
+        "date": "01/12/2019",
+        "start_time": "10:30",
+        "status": "CLOSED"
+      }
+    ],
+    "bets_value": 52000,
+    "max_bets_value": 1000,
+    "max_bets_rescue": 20000,
+    "bet_values": {
+      "home_win": 250,
+      "guest_win": 400,
+      "draw": 400,
+      "score": 450
+    },
+    "bets_on": false,
+    "status": "CLOSED"
+  },
+  {
+    "id": "3c424dce-8682-4cca-9770-533e2697bd0e",
+    "name": "Torneio no Campo do Jurema",
+    "locality": "Campo do Jurema",
+    "start_date": "07/12/2019",
+    "end_date": "08/12/2019",
+    "matches": [
+      {
+        "id": "bcdc3b3e-7c89-4ff8-8e24-503cb770b320",
+        "home": "29a5f7ad-88e1-46b7-be8b-168e0a0ab043",
+        "guest": "c182aae6-b502-4bb3-ad85-4339fa682acd",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "07/12/2019",
+        "start_time": "07:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "041a7ada-c883-4281-b60e-1265f6283d5e",
+        "home": "35e9288f-802e-4290-b9c0-dd3c012af2c8",
+        "guest": "52713222-924c-43e0-942a-2baaa8d78459",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "07/12/2019",
+        "start_time": "08:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "ac065393-144e-46da-b7f8-8513c985f43f",
+        "home": "81d10312-811f-4be6-97c6-f37d8378e9ee",
+        "guest": "7952f5fd-d251-4d20-98b3-9247ac382db6",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "08/12/2019",
+        "start_time": "07:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "9fdab11e-2426-44f6-a783-087fd1ab4320",
+        "home": "4c580337-c7d4-4089-b2f8-eaded287b636",
+        "guest": "2d912abf-96a7-4a1d-8da5-d85d4533a9e2",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "08/12/2019",
+        "start_time": "08:30",
+        "status": "OPEN"
+      }
+    ],
+    "bets_value": 52000,
+    "max_bets_value": 1000,
+    "max_bets_rescue": 20000,
+    "bet_values": {
+      "home_win": 250,
+      "guest_win": 400,
+      "draw": 400,
+      "score": 450
+    },
+    "bets_on": true,
+    "status": "OPEN"
+  },
+  {
+    "id": "a10a1122-a7d4-439e-9956-2021f29fb40c",
+    "name": "Torneio no Campo da Vila Serrana",
+    "locality": "Campo da Vila Serrana",
+    "start_date": "14/12/2019",
+    "end_date": "15/12/2019",
+    "matches": [
+      {
+        "id": "b69c4ec1-ae8d-483b-a182-5cf5597539ec",
+        "home": "29a5f7ad-88e1-46b7-be8b-168e0a0ab043",
+        "guest": "c182aae6-b502-4bb3-ad85-4339fa682acd",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "14/12/2019",
+        "start_time": "07:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "d2b3a137-a6de-4f46-969b-fe2b3a5615b3",
+        "home": "35e9288f-802e-4290-b9c0-dd3c012af2c8",
+        "guest": "52713222-924c-43e0-942a-2baaa8d78459",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "14/12/2019",
+        "start_time": "08:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "6b5ae1e9-d13b-4ebd-bfa7-ee17cc4786ab",
+        "home": "81d10312-811f-4be6-97c6-f37d8378e9ee",
+        "guest": "7952f5fd-d251-4d20-98b3-9247ac382db6",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "15/12/2019",
+        "start_time": "07:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "347d5caa-e910-4d82-9e26-2db307f37e07",
+        "home": "4c580337-c7d4-4089-b2f8-eaded287b636",
+        "guest": "2d912abf-96a7-4a1d-8da5-d85d4533a9e2",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "15/12/2019",
+        "start_time": "08:30",
+        "status": "OPEN"
+      }
+    ],
+    "bets_value": 52000,
+    "max_bets_value": 1000,
+    "max_bets_rescue": 20000,
+    "bet_values": {
+      "home_win": 250,
+      "guest_win": 400,
+      "draw": 400,
+      "score": 450
+    },
+    "bets_on": false,
+    "status": "OPEN"
+  },
+  {
+    "id": "a3e6180d-fe4f-44d2-af6c-9f11a902d5bb",
+    "name": "Torneio no Campo da Filipinas",
+    "locality": "Campo da Filipinas",
+    "start_date": "21/12/2019",
+    "end_date": "22/12/2019",
+    "matches": [
+      {
+        "id": "15e47d21-1f33-40dd-aa18-55970f3bdb9c",
+        "home": "29a5f7ad-88e1-46b7-be8b-168e0a0ab043",
+        "guest": "c182aae6-b502-4bb3-ad85-4339fa682acd",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "21/12/2019",
+        "start_time": "07:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "8cfa8105-3be3-417d-8894-eea51f9ce36a",
+        "home": "35e9288f-802e-4290-b9c0-dd3c012af2c8",
+        "guest": "52713222-924c-43e0-942a-2baaa8d78459",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "21/12/2019",
+        "start_time": "08:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "c5d529a7-64d3-4f98-940e-a0adae2e8e50",
+        "home": "81d10312-811f-4be6-97c6-f37d8378e9ee",
+        "guest": "7952f5fd-d251-4d20-98b3-9247ac382db6",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "22/12/2019",
+        "start_time": "07:30",
+        "status": "OPEN"
+      },
+      {
+        "id": "ab92a4a6-5af1-42a5-abd3-769d1fb7d921",
+        "home": "4c580337-c7d4-4089-b2f8-eaded287b636",
+        "guest": "2d912abf-96a7-4a1d-8da5-d85d4533a9e2",
+        "result": null,
+        "score": {
+          "home": null,
+          "guest": null
+        },
+        "date": "22/12/2019",
+        "start_time": "08:30",
+        "status": "OPEN"
+      }
+    ],
+    "bets_value": 52000,
+    "max_bets_value": 1000,
+    "max_bets_rescue": 20000,
+    "bet_values": {
+      "home_win": 250,
+      "guest_win": 400,
+      "draw": 400,
+      "score": 450
+    },
+    "bets_on": false,
+    "status": "OPEN"
+  }
+]
