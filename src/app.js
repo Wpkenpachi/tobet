@@ -2,8 +2,6 @@ const { ApolloServer, gql } = require("apollo-server");
 const uuidv4 = require("uuid/v4");
 const shortid = require("shortid");
 
-console.log(shortid.generate());
-
 const fakeBets = () => {
   const rounds = require("../src/database/static/rounds.json");
   const foundRound = rounds.find(
@@ -191,4 +189,5 @@ const server = new ApolloServer({ typeDefs, resolvers });
 
 server.listen().then(({ url }) => {
   console.log(`Ready in ${url}`);
+  console.log(`GraphQL Playground in ${url}/graphql`);
 });
