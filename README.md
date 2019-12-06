@@ -18,6 +18,5 @@
 - [ ] Change all static data by collection data
 - [ ] Implement Mutations
 - [ ] Implement Tests for Mutations
-- [ ]
 
 #### Admin API
