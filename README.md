@@ -32,7 +32,7 @@
 - accessing playground
   - https://localhost:4000/graphql
 
-### Queries
+### Queries on Playground or Post Request Body
 
 - Get Users
 
